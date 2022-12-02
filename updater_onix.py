@@ -5,8 +5,7 @@ import sys
 
 print("Updater_Onix version 0.01 (c) 2022, HappyAnd_13")
 
-#url = sys.argv[1]
-url="https://raw.githubusercontent.com/HappyAnd13/updater_onix/main/README.md"
+url="https://github.com/HappyAnd13/updater_onix/blob/main/updater_onix.py"
 # установим значение в 1024 байт за один раз
 buffer_size = 1024
 # загрузка тела ответа по кускам
