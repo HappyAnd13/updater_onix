@@ -1,2 +1,2 @@
 # updater_onix
-Use Python, requests, cgi,tqdm
+Use Python, requests, cgi, tqdm
